@@ -24,25 +24,25 @@ To solve the mismatch problem mentioned above, RANSAC is a general method for fi
 
 ### Lab
 
-|<img src="result/lab1_2.png" width="80%">|<img src="result/lab2_3.png" width="80%">|
+|<img src="result/lab1_2.png" width="100%">|<img src="result/lab2_3.png" width="100%">|
 |--------------------------------------------|--------------------------------------------|
 |1->2|2->3|
-|<img src="result/lab3_4.png" width="80%">|<img src="result/lab4_5.png" width="80%">|
+|<img src="result/lab3_4.png" width="100%">|<img src="result/lab4_5.png" width="100%">|
 |3->4|4->5|
 
-|<img src="result/lab_p.png" width="80%">|
+|<img src="result/lab_p.png" width="100%">|
 |--------------------------------------------|
 |panorama|
 
 ### Sport ground
 
-|<img src="result/sport1_2.png" width="80%">|<img src="result/sport2_3.png" width="80%">|
+|<img src="result/sport1_2.png" width="100%">|<img src="result/sport2_3.png" width="100%">|
 |--------------------------------------------|--------------------------------------------|
 |1->2|2->3|
-|<img src="result/sport3_4.png" width="80%">|<img src="result/sport4_5.png" width="80%">|
+|<img src="result/sport3_4.png" width="100%">|<img src="result/sport4_5.png" width="100%">|
 |3->4|4->5|
 
-|<img src="result/sport_p.png" width="80%">|
+|<img src="result/sport_p.png" width="100%">|
 |--------------------------------------------|
 |panorama|
 
